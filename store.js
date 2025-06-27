@@ -154,7 +154,7 @@ console.log(answer);
 
 // console.log(docs);
 
-import { MessagesPlaceholder } from "@langchain/core/prompts";
+  import { MessagesPlaceholder } from "@langchain/core/prompts";
 
 const REPHRASE_QUESTION_SYSTEM_TEMPLATE = 
   `Given the following conversation and a follow up question, 
